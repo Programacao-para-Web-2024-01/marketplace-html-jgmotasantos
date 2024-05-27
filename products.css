@@ -1,0 +1,14 @@
+.products-list {
+    display: flex;
+    gap: 16px;
+}
+
+.products-list > li {
+    list-style-type: none;
+    border-style: groove;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 4px;
+    padding: 16px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
