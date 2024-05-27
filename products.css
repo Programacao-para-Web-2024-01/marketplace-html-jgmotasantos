@@ -1,0 +1,22 @@
+.products-list {
+    display: flex;
+    gap: 30px;
+}
+
+.products-list > li {
+    border-style: groove;
+    padding: 20px;
+    border-color: aqua;
+    border-radius: 4px;
+    box-shadow: 4px 4px 4px 3px rgba(0,0,0,.2);
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    align-content: center;
+}

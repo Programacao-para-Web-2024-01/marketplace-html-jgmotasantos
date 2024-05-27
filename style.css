@@ -8,13 +8,13 @@ body {
 
 .login-wrapper {
     width: 600px;
-    background: linear-gradient(#333333,white,gray);
+    background: linear-gradient(#333333,black,grey);
     backdrop-filter: blur(20px);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     border: 2px solid rgba(255, 255, 255, 0.2);
     color: rgb(241, 235, 235);
     border-radius: 10px;
-    padding: 50px 40px;
+    padding: 50px 50px;
     margin: 0 auto;
 }
 
@@ -37,8 +37,8 @@ body {
     border: none;
     outline: none;
     border: 2px solid rgba(255, 255, 255, 0.2);
-    border-radius: 40px;
-    padding-left: 40px;
+    border-radius: 30px;
+    padding-left: 20px;
     color: white;
 }
 
